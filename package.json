@@ -1,0 +1,24 @@
+{
+  "name": "raspwifi",
+  "version": "1.0.0",
+  "description": "Package to setup the RaspPi wifi by modifying the wpa_supplicant.conf file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erakash/raspwifi.git"
+  },
+  "keywords": [
+    "Raspberry",
+    "Pi",
+    "WiFi"
+  ],
+  "author": "Akash Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erakash/raspwifi/issues"
+  },
+  "homepage": "https://github.com/erakash/raspwifi#readme"
+}
